@@ -414,6 +414,7 @@ main {
     -webkit-mask: url(#mask);
     mask: url(#mask);
     fill: #000;
+
 }
 
 .iphonex {
@@ -745,7 +746,7 @@ main {
     }
 
     .iphonex {
-        width: 22em;
+        width: 21em;
         height: 44em;
     }
 

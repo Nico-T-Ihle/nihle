@@ -287,7 +287,7 @@ header .logo {
 @media only screen and (max-width: 375px) {
 
     .main-navigation-toggle+label {
-        position: fixed;
+     
         top: calc(var(--space) * 1.7);
         right: calc(var(--space) * 2);
         cursor: pointer;
