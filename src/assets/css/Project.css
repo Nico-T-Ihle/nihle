@@ -33,7 +33,7 @@
 }
 
 .box-1 {
-  background-color: aqua;
+  background-color: #311736;
   border-radius: 2rem;
   display: flex;
   justify-content: center;
@@ -46,7 +46,7 @@
 }
 
 .box-2 {
-  background-color: rgb(155, 155, 155);
+  background-color: rgb(155, 53, 134);
   border-radius: 2rem;
   display: flex;
   justify-content: center;
@@ -54,7 +54,7 @@
 }
 
 .box-3 {
-  background-color: aqua;
+  background-color: #1c1542;
   border-radius: 2rem;
   display: flex;
   justify-content: center;
@@ -63,7 +63,7 @@
 }
 
 .box-4 {
-  background-color: rgb(251, 255, 0);
+  background-color: #121212;
   border-radius: 2rem;
   display: flex;
   justify-content: center;
@@ -72,7 +72,7 @@
 }
 
 .box-5 {
-  background-color: rgb(255, 0, 234);
+  background-color: rgb(89, 48, 179);
   border-radius: 2rem;
   display: flex;
   justify-content: center;
@@ -81,7 +81,7 @@
 }
 
 .box-6 {
-  background-color: rgb(255, 174, 0);
+  background-color: #95348a;
   border-radius: 2rem;
   display: flex;
   justify-content: center;
