@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nihle/static/css/main.dfc4980d.css",
+    "main.css": "/nihle/static/css/main.e08b7cfd.css",
     "main.js": "/nihle/static/js/main.0f8b090c.js",
     "static/js/787.dd1fa5e8.chunk.js": "/nihle/static/js/787.dd1fa5e8.chunk.js",
     "static/media/color-sharp.png": "/nihle/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -15,14 +15,14 @@
     "static/media/meter1.svg": "/nihle/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
     "static/media/meter3.svg": "/nihle/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "static/media/brackets.svg": "/nihle/static/media/brackets.0b6e6ea9802ec6da1fa92461ca8a585a.svg",
-    "static/media/digital-marketing.svg": "/nihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
     "index.html": "/nihle/index.html",
-    "main.dfc4980d.css.map": "/nihle/static/css/main.dfc4980d.css.map",
+    "static/media/digital-marketing.svg": "/nihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
+    "main.e08b7cfd.css.map": "/nihle/static/css/main.e08b7cfd.css.map",
     "main.0f8b090c.js.map": "/nihle/static/js/main.0f8b090c.js.map",
     "787.dd1fa5e8.chunk.js.map": "/nihle/static/js/787.dd1fa5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfc4980d.css",
+    "static/css/main.e08b7cfd.css",
     "static/js/main.0f8b090c.js"
   ]
 }
