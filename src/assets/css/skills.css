@@ -69,6 +69,10 @@ h5 {
     .container-skills {
         max-width: 340px;
     }
+
+    .react-multiple-carousel__arrow {
+        top: 2rem;
+    }
 }
 
 @media only screen and (min-width: 576px) {
@@ -80,6 +84,10 @@ h5 {
 @media only screen and (min-width: 768px) {
     .container-skills {
         max-width: 720px;
+    }
+
+    .react-multiple-carousel__arrow {
+        top: 4rem;
     }
 }
 
@@ -100,3 +108,4 @@ h5 {
         max-width: 1320px;
     }
 }
+
