@@ -71,7 +71,8 @@ h5 {
     }
 
     .react-multiple-carousel__arrow {
-        top: 2rem;
+        top: 3rem;
+        margin: -1rem;
     }
 }
 
@@ -87,7 +88,8 @@ h5 {
     }
 
     .react-multiple-carousel__arrow {
-        top: 4rem;
+        top: 5rem;
+        margin: -1rem;
     }
 }
 

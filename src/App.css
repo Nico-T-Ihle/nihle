@@ -1,5 +1,5 @@
 body{
    margin: 0;
-   background: linear-gradient(90deg, #34b093 0%, rgb(97, 37, 223) 100%);
    overflow: auto;
+   padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
 }
