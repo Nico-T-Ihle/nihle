@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/nihle/static/css/main.eba5a518.css",
+    "main.css": "/nihle/static/css/main.ce8724c1.css",
     "main.js": "/nihle/static/js/main.0f8b090c.js",
     "static/js/787.dd1fa5e8.chunk.js": "/nihle/static/js/787.dd1fa5e8.chunk.js",
     "static/media/color-sharp.png": "/nihle/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -17,12 +17,12 @@
     "static/media/brackets.svg": "/nihle/static/media/brackets.0b6e6ea9802ec6da1fa92461ca8a585a.svg",
     "index.html": "/nihle/index.html",
     "static/media/digital-marketing.svg": "/nihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
-    "main.eba5a518.css.map": "/nihle/static/css/main.eba5a518.css.map",
+    "main.ce8724c1.css.map": "/nihle/static/css/main.ce8724c1.css.map",
     "main.0f8b090c.js.map": "/nihle/static/js/main.0f8b090c.js.map",
     "787.dd1fa5e8.chunk.js.map": "/nihle/static/js/787.dd1fa5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eba5a518.css",
+    "static/css/main.ce8724c1.css",
     "static/js/main.0f8b090c.js"
   ]
 }
