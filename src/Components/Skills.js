@@ -33,30 +33,51 @@ export const Skills = () => {
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
               <h2>Skills</h2>
-              <p className='skill-p-tag'>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+              <p className='skill-p-tag'>
+                Hey, i allways enjoyed building things and i leared a lot in this time
+                <br></br>
+                so i listet some of my intressed that i use.
+              </p>
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 <div className="item">
-                  <img src={meter1} alt="Image" />
-                  <h5>Web Development</h5>
+                  {/* <img src={meter1} alt="Image" /> */}
+                  <h5>Swift/UI</h5>
                 </div>
                 <div className="item">
-                  <img src={meter2} alt="Image" />
-                  <h5>IOS-Swift Development</h5>
+                  {/* <img src={meter2} alt="Image" /> */}
+                  <h5>JavaScript</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image" />
+                  {/* <img src={meter1} alt="Image" /> */}
+                  <h5>Git</h5>
+                </div>
+                <div className="item">
+                  {/* <img src={meter3} alt="Image" /> */}
                   <h5>React -/Native</h5>
                 </div>
+
                 <div className="item">
-                  <img src={meter1} alt="Image" />
-                  <h5>Hardware Support/Apple support</h5>
+                  {/* <img src={meter1} alt="Image" /> */}
+                  <h5>PHP</h5>
+                </div>
+                <div className="item">
+                  {/* <img src={meter1} alt="Image" /> */}
+                  <h5>MySQL</h5>
+                </div>
+                <div className="item">
+                  {/* <img src={meter1} alt="Image" /> */}
+                  <h5>PC Hardware</h5>
+                </div>
+                <div className="item">
+                  {/* <img src={meter1} alt="Image" /> */}
+                  <h5>WordPress</h5>
                 </div>
               </Carousel>
             </div>
           </div>
         </div>
       </div>
-      <img className="background-image-left" src={colorSharp} alt="Image" />
+      {/* <img className="background-image-left" src={colorSharp} alt="Image" /> */}
     </section>
   )
 }

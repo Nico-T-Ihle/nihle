@@ -3,8 +3,9 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 // import projImg2 from "../assets/img/project-img2.png";
 // import projImg3 from "../assets/img/project-img3.png";
 // import colorSharp2 from "../assets/img/color-sharp2.png";
-import projectImg1 from '../assets/images/project-img1.png';
+// import projectImg1 from '../assets/images/project-img1.png';
 // import 'animate.css';
+import enote from '../assets/images/IMG_0207.png';
 import TrackVisibility from 'react-on-screen';
 import '../assets/css/Project.css'
 
@@ -14,32 +15,32 @@ export default function Projects() {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projectImg1,
+      // imgUrl: projectImg1,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projectImg1,
+      // imgUrl: projectImg1,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projectImg1,
+      // imgUrl: projectImg1,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projectImg1,
+      // imgUrl: projectImg1,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projectImg1,
+      // imgUrl: projectImg1,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projectImg1,
+      // imgUrl: projectImg1,
     },
   ];
 
@@ -47,12 +48,17 @@ export default function Projects() {
     <section className="project" id="project">
       <Container>
         <div class="wrapper">
-          <div class="box-1 box-hover">A</div>
-          <div class="box-2 box-hover">B</div>
-          <div class="box-3 box-hover">C</div>
-          <div class="box-4 box-hover">D</div>
-          <div class="box-5 box-hover">E</div>
-          <div class="box-6 box-hover">F</div>
+          <a className="box-1 box-hover" href="https://github.com/Nico-T-Ihle/Enote" >
+            <div >
+              <img className="enote" src={enote} />
+            </div>
+          </a>
+
+          <div class="box-2 box-hover">Coming Soon</div>
+          <div class="box-3 box-hover">Coming Soon</div>
+          <div class="box-4 box-hover">Coming Soon</div>
+          <div class="box-5 box-hover">Coming Soon</div>
+          <div class="box-6 box-hover">Coming Soon</div>
         </div>
         {/* <Row>
           <Col size={12}>

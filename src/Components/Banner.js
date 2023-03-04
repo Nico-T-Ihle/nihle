@@ -66,7 +66,8 @@ export default function Home() {
                             <div className='welcometext'>
                                 <p className='welcome-inhalt-p'>Hello,</p>
                                 <h1 className='welcome-inhalt-h1 '>I'm Nico Ihle</h1>
-                                <p className='welcome-inhalt-p'>{`I love to build `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></p>
+                                <h2 className='AbouteMe-third'>Software Developer and <u>Day Dreamer</u></h2>
+                                {/* <p className='welcome-inhalt-p'>{`I love to build `} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></p> */}
                                 {/* <p className='welcome-inhalt-p'>i love to create things...</p> */}
                                 {/* <Typical className="welcome-inhalt-p" steps={['I love to build,', 2000, 'APPS & IOT ', 2000, 'projekts', 3000,]} loop={Infinity} /> */}
                             </div>

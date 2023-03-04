@@ -7,7 +7,7 @@ import { Linkedin } from 'grommet-icons';
 export default function Footer() {
     return (
         <>
-            <footer class="footer-distributed">
+            <footer id='footer' class="footer-distributed">
                 <div class="footer-right">
                     <a target="_blank" href="https://www.instagram.com/nico.yuy/">
                         <Instagram className='Icons' color='plain' size='xlarge' ></Instagram>

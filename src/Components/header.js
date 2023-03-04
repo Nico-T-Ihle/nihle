@@ -23,7 +23,7 @@ export default function Header() {
         <header>
             <div className='nav-container'>
                 <div>
-                    <p className='nav-info-text'>Portfolio</p>
+                    <p className='nav-info-text'>Nico Ihle</p>
                 </div>
 
                 <input id="page-nav-toggle" className="main-navigation-toggle" type="checkbox" />
@@ -45,10 +45,9 @@ export default function Header() {
 
                 <nav className="main-navigation">
                     <ul>
-                        <li><a target="_blank" href="https://www.linkedin.com/in/nico-ihle">LinkedIn</a></li>
-                        <li><a target="_blank" href="https://github.com/Nico-T-Ihle">Github</a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/nico.yuy/">Instagram</a></li>
-                        <li><a href="#0">CLI-Website</a></li>
+                        <li><a target="_blank" href="">Aboute Me</a></li>
+                        <li><a target="_blank" href="">Projects</a></li>
+                        <li><a target="_blank" href="#footer">Contact</a></li>
                     </ul>
                 </nav>
 

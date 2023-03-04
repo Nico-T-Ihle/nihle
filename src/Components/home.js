@@ -30,7 +30,8 @@ export default function Home() {
               <div className='welcometext'>
                 <p className='welcome-inhalt-p'>Hello,</p>
                 <h1 className='welcome-inhalt-h1 '>I'm Nico Ihle</h1>
-                <p className='welcome-inhalt-p'>i love to create things...</p>
+                <h2 className='AbouteMe-third'>Software Developer and <u>Day Dreamer</u></h2>
+                {/* <p className='welcome-inhalt-p'>i love to create things...</p> */}
               </div>
               {/* <Typical className="Animations_Text" steps={['React-Native and Ios', 2000, 'Developer', 3000, ]} loop={Infinity} /> */}
             </div>
