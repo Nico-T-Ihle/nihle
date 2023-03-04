@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/nihle/static/css/main.89b0322b.css",
-    "main.js": "/nihle/static/js/main.23cfac44.js",
+    "main.css": "/nihle/static/css/main.8c6ec568.css",
+    "main.js": "/nihle/static/js/main.5a608aac.js",
     "static/js/787.dd1fa5e8.chunk.js": "/nihle/static/js/787.dd1fa5e8.chunk.js",
+    "static/media/bluish-kingdom@3000x2000px.jpg": "/nihle/static/media/bluish-kingdom@3000x2000px.8141fe61c6b8bc15aaf8.jpg",
     "static/media/color-sharp.png": "/nihle/static/media/color-sharp.bea361cfef80fefc2d1e.png",
-    "static/media/banner-bg.png": "/nihle/static/media/banner-bg.96ae4e43587b42c175db.png",
     "static/media/emojiME.jpg": "/nihle/static/media/emojiME.9306a74b98b313b01ee4.jpg",
-    "static/media/project-img1.png": "/nihle/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/IMG_0207.png": "/nihle/static/media/IMG_0207.b53c8dcc17cfccdf4332.png",
     "static/media/revicons.eot": "/nihle/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/nihle/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/nihle/static/media/revicons.e8746a624ed098489406.woff",
@@ -17,12 +17,12 @@
     "static/media/brackets.svg": "/nihle/static/media/brackets.0b6e6ea9802ec6da1fa92461ca8a585a.svg",
     "index.html": "/nihle/index.html",
     "static/media/digital-marketing.svg": "/nihle/static/media/digital-marketing.1977e4425feed4913fc892ed690dad6d.svg",
-    "main.89b0322b.css.map": "/nihle/static/css/main.89b0322b.css.map",
-    "main.23cfac44.js.map": "/nihle/static/js/main.23cfac44.js.map",
+    "main.8c6ec568.css.map": "/nihle/static/css/main.8c6ec568.css.map",
+    "main.5a608aac.js.map": "/nihle/static/js/main.5a608aac.js.map",
     "787.dd1fa5e8.chunk.js.map": "/nihle/static/js/787.dd1fa5e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89b0322b.css",
-    "static/js/main.23cfac44.js"
+    "static/css/main.8c6ec568.css",
+    "static/js/main.5a608aac.js"
   ]
 }
